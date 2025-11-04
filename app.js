@@ -23,13 +23,26 @@
 // }
 
 
+//modules//
 
+//  const name = "huma"
 
+//  export default name                                                                                             
 
+let obj = {
 
+    "name" : "huma",
+    "father" : "hashim",
+    "age"   : 21,
+    "city" : "karaachi"
+}
+const person = "Huma";
+const role = "Developer";
+const id = 123;
 
+ 
 
-
+export {obj , person , role , id}
 
 
 
